@@ -7,13 +7,13 @@
 * E-mail: `yangzhen at bjut.edu.cn`   -OR-   `fromyangzhen at gmail.com`
 
 ### Professional Memberships
-> IEEE (Member), ACM (Member), Chinese Institute of Electronics (Senior Member), China Computer Federation (Member), Chinese Society of Image and Graphics (Member), Chinese Association for Cryptologic Research (Member)
+> * IEEE (Member), ACM (Member), Chinese Institute of Electronics (Senior Member), China Computer Federation (Member), Chinese Society of Image and Graphics (Member), Chinese Association for Cryptologic Research (Member)
 
 ### Teaching Activities
-> The Excellent Young Teacher Award, Beijing University of Technology, August 2013.
+> * The Excellent Young Teacher Award, Beijing University of Technology, August 2013.
 
 ### Research Interests
-> Machine learning, data mining, social computing, information security, and trusted computing
+> * Machine learning, data mining, social computing, information security, and trusted computing
 
 ### Funded Projects
 > * PI, The National Natural Science Foundation of China (No. 61671030), 2017-2021
@@ -34,12 +34,18 @@
 > * The Importation and Development of High CaliberTalents Project of Beijing Municipal Institutions (No. CIT&TCD201404052), 2013
 > * Chinese Institute of Electronics Science Award of Electronic Information Technology (Second Prize), 2012
 
+### Editor of Proceeding
+> * Yung M, J. Zhang J, Yang Z (Eds.). Trusted Systems-7th InternationalConference, INTRUST 2015, Beijing, China, December 7-8, 2015. INTRUST 2015, [LNCS 9565](http://www.springer.com/jp/book/9783319315492?token=prtst0416p), 2016
+
+### Reviewing for Journals
+> * IEEE Trans. on Big Data
+> * IEEE Trans. on Intelligent Transportation Systems
+> * Multimedia Tools and Applications
+> * Acta Electronica Sinica (in Chinese, 电子学报).
+
 ### Research Highlight
 > * [2015] Yang Z, Issac J, Hu X, Liu H. "Finding the Right Social Media Site for Questions." 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), August 25-28, 2015, Paris, France, 639-644. (A demo Q&A system **`Social Answer`** was demonstrated in ICDM'15)
 > * [2013] Yang Z, Lei J, Fan K, Lai Y. "Keyword Extraction by Entropy Difference Between the Intrinsic and Extrinsic Mode." Physica A: Statistical Mechanics and its Applications 392(19): 4523-4531. ([Paper](http://www.sciencedirect.com/science/article/pii/S0378437113004949), [Code](http://www.codeproject.com/Articles/643619/Keyword-Extraction-Based-On-Entropy-Difference))
-
-### Editor of Proceeding
-> Yung M, J. Zhang J, Yang Z (Eds.). Trusted Systems-7th InternationalConference, INTRUST 2015, Beijing, China, December 7-8, 2015. INTRUST 2015, [LNCS 9565](http://www.springer.com/jp/book/9783319315492?token=prtst0416p), 2016
 
 ### Selected Paper
 > * [2016] Ma Z, Xue J, Leijon A, Tan Z, Yang Z, Guo J. "Nonlinear Decorrelation of Neutral Vector: Theory and Applications." Accepted by IEEE Transactions on Neural Networks and Learning Systems.
