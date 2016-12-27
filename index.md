@@ -30,6 +30,7 @@
 > * PI, The Beijing Natural Science Foundation (No. 4102012), 2010-2013
 
 ### Awards
+> * Chinese Institute of Electronics Science Award of Electronic Information Technology (Third Prize), 2016
 > * Chinese Institute of Electronics Science Award of Electronic Information Technology (Third Prize), 2015
 > * The Beijing Excellent Talent Development Foundation, 2013
 > * The Importation and Development of High CaliberTalents Project of Beijing Municipal Institutions (No. CIT&TCD201404052), 2013
