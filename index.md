@@ -1,4 +1,5 @@
 ![Zhen Yang](https://github.com/fromyangzhen/DMSLab/raw/gh-pages/ZY.jpg)
+
 ### Welcome to Data Mining & Security Lab.
 > * Zhen Yang, Ph. D, Associate Professor 
 * [Deputy Dean for Scientific Research and & Lab Management, College of Computer Science, Faculty of Information Technology, Beijing University of Technology](http://www.bjut.edu.cn) 
@@ -72,7 +73,9 @@
 
 ### Research Group ——  Data Mining & Security Lab
 ![Logo Designer is Xin Wei](https://github.com/fromyangzhen/DMSLab/raw/gh-pages/IMG_0622.PNG)
+
 > * DMS Lab Logo (Designer is Xin Wei)
+
 
 ### Students
 #### Current (I am lucky to work with the following excellent students)
