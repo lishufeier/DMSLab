@@ -45,7 +45,7 @@
 > * Neurocomputing
 > * Multimedia Tools and Applications
 > * Acta Electronica Sinica (in Chinese, 电子学报)
-> * Journal of Communications
+> * Journal of Communications (in Chinese, 通信学报)
 
 ### Research Highlight
 > * [2015] Yang Z, Issac J, Hu X, Liu H. "Finding the Right Social Media Site for Questions." 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), August 25-28, 2015, Paris, France, 639-644. (A demo Q&A system **`Social Answer`** was demonstrated in ICDM'15)
