@@ -42,8 +42,10 @@
 ### Reviewing for Journals
 > * IEEE Trans. on Big Data
 > * IEEE Trans. on Intelligent Transportation Systems
+> * IEEE JDT
 > * Neurocomputing
 > * Multimedia Tools and Applications
+> * Journal of Multimedia
 > * Acta Electronica Sinica (in Chinese, 电子学报)
 > * Journal of Communications (in Chinese, 通信学报)
 
