@@ -45,6 +45,7 @@
 > * IEEE JDT
 > * Neurocomputing
 > * Multimedia Tools and Applications
+> * China Communications
 > * Journal of Multimedia
 > * Acta Electronica Sinica (in Chinese, 电子学报)
 > * Journal of Communications (in Chinese, 通信学报)
