@@ -72,7 +72,7 @@
 > * [2009] Yang Z, Fan K, Lei J, Guo J. "Text Manifold Based on Semantic Analysis." Acta Electronica Sinica, 2009, 37(3): 557-561 (in Chinese, 电子学报).
 
 ### TREC Activities
-> * [[TREC 2016]](http://trec.nist.gov/) [Q&A](http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf), [Open Search Track](http://trec.nist.gov/pubs/trec25/papers/BJUT-O.pdf), [Real Time](http://trec.nist.gov/pubs/trec25/papers/BJUT-RT.pdf)
+> * [[TREC 2016]](http://trec.nist.gov/) [Live QA](http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf), [Open Search Track](http://trec.nist.gov/pubs/trec25/papers/BJUT-O.pdf), [Real Time](http://trec.nist.gov/pubs/trec25/papers/BJUT-RT.pdf)
 > * [[TREC 2015]](http://trec.nist.gov/pubs/trec24/trec2015.html)  [Temporal Summarization Track](http://trec.nist.gov/pubs/trec24/papers/BJUT-TS.pdf), [Contextual Suggestion Track](http://trec.nist.gov/pubs/trec24/papers/BJUT-CX.pdf), Microblog Track[[1]](http://trec.nist.gov/pubs/trec24/papers/BJUT-MB2.pdf)[[2]](http://trec.nist.gov/pubs/trec24/papers/BJUT-MB.pdf)
 > * [[TREC 2014]](http://trec.nist.gov/pubs/trec23/trec2014.html)  [Temporal Summarization Track](http://trec.nist.gov/pubs/trec23/papers/pro-BJUT_ts.pdf), [Contextual Suggestion Track](http://trec.nist.gov/pubs/trec23/papers/pro-BJUT_cs.pdf), [Microblog Track](http://trec.nist.gov/pubs/trec23/papers/pro-BJUT_microblog.pdf)
 > * [[TREC 2013]](http://trec.nist.gov/pubs/trec22/trec2013.html)  [Temporal Summarization Track](http://trec.nist.gov/pubs/trec22/papers/BJUT-ts.pdf), [Microblog Track](http://trec.nist.gov/pubs/trec22/papers/BJUT-microblog.pdf)
